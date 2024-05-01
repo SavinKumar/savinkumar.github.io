@@ -1,0 +1,44 @@
+[
+  {
+    "name": {
+      "value": "Shree Krishna Mahamantra"
+    },
+    "god_associated": {
+      "value": "Shree Krishna, Shree Rama"
+    },
+    "english": {
+      "value": "Hare Krishna Hare Krishna\nKrishna Krishna Hare Hare\nHare Rama Hare Rama\nRama Rama Hare Hare"
+    },
+    "hindi": {
+      "value": "हरे कृष्ण हरे कृष्ण |\nकृष्ण कृष्ण हरे हरे ||\nहरे राम हरे राम |\nराम राम हरे हरे ||"
+    }
+  },
+  {
+    "name": {
+      "value": "Jai Bajrang Mantra"
+    },
+    "god_associated": {
+      "value": "Shree Hanuman Ji"
+    },
+    "english": {
+      "value": "Jai Bajrang Bali"
+    },
+    "hindi": {
+      "value": "जय बजरंग बली |"
+    }
+  },
+  {
+    "name": {
+      "value": "Shree Rama Mantra"
+    },
+    "god_associated": {
+      "value": "Shree Rama"
+    },
+    "english": {
+      "value": "Jai Shree Rama"
+    },
+    "hindi": {
+      "value": "जय श्री राम |"
+    }
+  }
+]
