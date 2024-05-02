@@ -40,5 +40,19 @@
     "hindi": {
       "value": "जय श्री राम |"
     }
+  },
+  {
+    "name": {
+      "value": "Om Namah Sivaay"
+    },
+    "god_associated": {
+      "value": "Shree Sankar Ji"
+    },
+    "english": {
+      "value": "Om Namah Shivaay"
+    },
+    "hindi": {
+      "value": "ॐ नमः शिवाय"
+    }
   }
 ]
