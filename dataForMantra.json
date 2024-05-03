@@ -1,5 +1,11 @@
 [
   {
+    "type": {
+      "value": "Auto"
+    },
+    "no_of_times": {
+      "value": 108.0
+    },
     "name": {
       "value": "Shree Krishna Mahamantra"
     },
@@ -14,6 +20,12 @@
     }
   },
   {
+    "type": {
+      "value": "Auto"
+    },
+    "no_of_times": {
+      "value": 108.0
+    },
     "name": {
       "value": "Jai Bajrang Mantra"
     },
@@ -28,6 +40,12 @@
     }
   },
   {
+    "type": {
+      "value": "Auto"
+    },
+    "no_of_times": {
+      "value": 108.0
+    },
     "name": {
       "value": "Shree Rama Mantra"
     },
@@ -42,6 +60,12 @@
     }
   },
   {
+    "type": {
+      "value": "Auto"
+    },
+    "no_of_times": {
+      "value": 108.0
+    },
     "name": {
       "value": "Om Namah Sivaay"
     },
