@@ -78,5 +78,25 @@
     "hindi": {
       "value": "ॐ नमः शिवाय"
     }
+  },
+  {
+    "type": {
+      "value": "Auto"
+    },
+    "no_of_times": {
+      "value": 108.0
+    },
+    "name": {
+      "value": "Shree Krishna Mahamantra"
+    },
+    "god_associated": {
+      "value": "Shree Krishna, Shree Rama"
+    },
+    "english": {
+      "value": "Hare Krishna Hare Krishna\nKrishna Krishna Hare Hare\nHare Rama Hare Rama\nRama Rama Hare Hare"
+    },
+    "hindi": {
+      "value": "हरे कृष्ण हरे कृष्ण |\nकृष्ण कृष्ण हरे हरे ||\nहरे राम हरे राम |\nराम राम हरे हरे ||"
+    }
   }
 ]
